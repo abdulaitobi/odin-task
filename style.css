@@ -1,0 +1,182 @@
+#section1
+{
+    background-color: #1f2937;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 300px;
+}
+
+#header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+#header-logo
+{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul
+{
+    display: flex;
+    gap: 20px;
+}
+
+li
+{
+    display: inline;
+    list-style: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+#header-this
+{
+    font-size: 48px;
+    font-weight:900;
+    color: #f9faf8;
+}
+
+#header-text
+{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#header-button
+{
+    color: #f9faf8;
+    background-color: #3882f6;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+}
+
+.intro
+{
+    display: flex;
+    gap: 80px;
+}
+
+.right-side
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    width: 40%;
+}
+
+#right-side-text
+{
+    color: #e5e7eb;
+}
+
+#header-some
+{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.body
+{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.box
+{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    border-style: solid;
+    border-color: #3882f6;
+}
+
+.body-item
+{
+    width: 200px;
+}
+
+.body-text
+{
+    color: gray;
+}
+
+#section3
+{
+    padding: 50px;
+    padding-left: 500px;
+    padding-right: 500px;
+    background-color: #e5e7eb;
+    margin-top: 50px;
+}
+
+#quote
+{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#thor
+{
+    font-weight: 900;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#section4
+{
+    padding:50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+#blue-box
+{
+    padding: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #3882f6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#conclusion-header
+{
+    color: #f9faf8;
+}
+
+#conclusion-text
+{
+    color: #f9faf8;
+}
+
+#conclusion-button
+{
+    background-color: #3882f6;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #f9faf8;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.conclusion-right
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
